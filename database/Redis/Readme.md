@@ -12,4 +12,5 @@
 卸载服务： redis-server --service-uninstall
 停止服务： redis-server --service-stop
 ## 5. 测试
-![]
+![](https://github.com/FishInSalt/MySpiderLearning/blob/master/database/Redis/23.png)  
+OK
