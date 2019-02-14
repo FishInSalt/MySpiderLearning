@@ -38,4 +38,4 @@ for url in urls:
 ```  
 其中，网页的html是gb2312编码方式，直接看会有乱码，用html.encode('latin1').decode('gbk')即可解决。（虽然没什么关系）
 结果：  
-![]()
+![image](https://github.com/FishInSalt/MySpiderLearning/blob/master/proxy%20pool/crawl_proxy/24.png)
