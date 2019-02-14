@@ -37,4 +37,5 @@ for url in urls:
             print(':'.join([ip,port]))
 ```  
 其中，网页的html是gb2312编码方式，直接看会有乱码，用html.encode('latin1').decode('gbk')即可解决。（虽然没什么关系）
-
+结果：  
+![]()
